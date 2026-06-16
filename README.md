@@ -20,6 +20,7 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 ---
 
 # 📊 GitHub Stats:
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautam-singla06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0"/>
@@ -39,14 +40,10 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 [![Gautam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautam-singla06&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/gautam-singla06)
 
 </div>
+
 [![Snake Animation](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gautam-singla06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
