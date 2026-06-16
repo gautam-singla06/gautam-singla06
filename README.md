@@ -43,7 +43,7 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gautam-singla06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+(https://github-profile-trophy.vercel.app/?username=gautam-singla06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
