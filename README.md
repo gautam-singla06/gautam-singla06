@@ -1,4 +1,5 @@
-<h2>Hi 👋, I'm Gautam Singla</h2>
+<div align="center">
+  <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Hi" width="50"> Hi, I'm Gautam Singla</h1>
 
 -----
 
@@ -113,11 +114,8 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="footer animation">
 
-**From [gautam-singla06](https://github.com/gautam-singla06)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
