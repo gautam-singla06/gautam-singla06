@@ -30,10 +30,10 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautam-singla06/gautam-singla06@gmail.com/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+[![Snake Animation](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake.svg)
+
 </div>
+
 
 ---
 
