@@ -1,6 +1,10 @@
 <h1 align="center">💫 About Me:</h1>
 Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engineering (VLSI) at Manav Rachna University. I’m passionate about Python development, problem solving, and exploring modern technologies, with a growing interest in semiconductor and chip design. I enjoy building projects that strengthen my programming fundamentals and logical thinking skills.
 
+## 👨‍💻 Portfolio:
+ <a href="https://gautam-singla06.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_singla06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-singla-a82962381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamsingla2312@gmail.com) 
