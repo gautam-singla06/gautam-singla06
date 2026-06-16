@@ -11,6 +11,18 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=gautam-singla06&show_icons=true&count_private=true&theme=tokyonight&border_color=9B5DE5&bg_color=0D0D1A&title_color=9B5DE5&icon_color=00BBF9&text_color=ffffff&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-singla06&layout=compact&theme=tokyonight&border_color=9B5DE5&bg_color=0D0D1A&title_color=9B5DE5&text_color=ffffff&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&border=9B5DE5&background=0D0D1A&ring=9B5DE5&fire=F15BB5&currStreakLabel=00BBF9&sideLabels=9B5DE5" width="500"/>
+
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gautam-singla06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gautam-singla06&theme=dark&hide_border=false)<br/>
