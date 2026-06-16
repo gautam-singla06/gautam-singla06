@@ -20,27 +20,26 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 ---
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=gautam-singla06&show_icons=true&count_private=true&theme=tokyonight&border_color=9B5DE5&bg_color=0D0D1A&title_color=9B5DE5&icon_color=00BBF9&text_color=ffffff&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-singla06&layout=compact&theme=tokyonight&border_color=9B5DE5&bg_color=0D0D1A&title_color=9B5DE5&text_color=ffffff&langs_count=8" height="170"/>
+<div align="center">
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautam-singla06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d0d1a&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-[![Snake Animation](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-singla06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=e2e8f0&border_radius=12"/>
 
 </div>
 
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7" alt="GitHub Streak" />
 
-### 📈 Contribution Graph
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam-singla06&bg_color=0D0D1A&color=9B5DE5&line=00BBF9&point=F15BB5&area=true&hide_border=false&border_color=9B5DE5" width="100%"/>
+<div align="center">
 
+[![Gautam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautam-singla06&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/gautam-singla06)
+
+</div>
+[![Snake Animation](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/gautam-singla06/gautam-singla06/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
