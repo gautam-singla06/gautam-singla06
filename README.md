@@ -10,17 +10,6 @@
 
 ---
 
-## 👨‍💻 Portfolio:
- <a href="https://gautam-singla06.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge">
-
----
-  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautam_singla06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam-singla-a82962381) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gautamsingla2312@gmail.com) 
-
----
-
 # 💻 Tech Stack:
 
 <table border="0" width="100%">
@@ -36,8 +25,8 @@
       <h3 align="left">🎯 Learning Focus</h3>
       <ul>
         <li>Deepening knowledge in <b>AI & Chip Design</b>.</li>
-        <li>Exploring <b>Semiconductor</b> Technology.</li>
-        <li>Learning <b>Programming</b> & System Design.</li>
+        <li>Exploring <b>Semiconductor Technology</b>.</li>
+        <li>Learning <b>Programming & System Design</b>.</li>
       </ul>
       <h3 align="left">🛠️ Current Tech Stack</h3>
       <div align="center">
@@ -49,7 +38,6 @@
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
         <br/>
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -62,14 +50,11 @@
         <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
         <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-        <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
         <br/>        
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
       </div>
     </td>
   </tr>
@@ -114,7 +99,10 @@
 
 </div>
 
+
+
 ---
+
 
 ## 🤝 Let's Connect
 
