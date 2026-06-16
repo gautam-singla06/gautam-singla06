@@ -1,4 +1,4 @@
-# <h1 align="center">💫 About Me:</h1>
+<h1 align="center">💫 About Me:</h1>
 Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engineering (VLSI) at Manav Rachna University. I’m passionate about Python development, problem solving, and exploring modern technologies, with a growing interest in semiconductor and chip design. I enjoy building projects that strengthen my programming fundamentals and logical thinking skills.
 
 
