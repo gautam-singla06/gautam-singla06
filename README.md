@@ -114,6 +114,28 @@
 
 </div>
 
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gautam-singla-a82962381/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gautamsingla2312@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="38"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/gautam_singla06/">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="38"/>
+</a>
+
+<br/><br/>
+<sub>Open to internships · collaborations · and building cool things together</sub>
+
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="footer animation">
 
 
