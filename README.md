@@ -26,8 +26,13 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&border=9B5DE5&background=0D0D1A&ring=9B5DE5&fire=F15BB5&currStreakLabel=00BBF9&sideLabels=9B5DE5" width="500"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-singla06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gautam-singla06/gautam-singla06@gmail.com/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 </div>
 
 ---
