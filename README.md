@@ -1,5 +1,11 @@
-<h1 align="center">💫 About Me:</h1>
-Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engineering (VLSI) at Manav Rachna University. I’m passionate about Python development, problem solving, and exploring modern technologies, with a growing interest in semiconductor and chip design. I enjoy building projects that strengthen my programming fundamentals and logical thinking skills.
+<h2>Hi 👋, I'm Gautam Singla</h2>
+
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+</p>
 
 ---
 
@@ -100,12 +106,20 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gautam-singla06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="footer animation">
 
+**From [gautam-singla06](https://github.com/gautam-singla06)**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
+</div>
 
