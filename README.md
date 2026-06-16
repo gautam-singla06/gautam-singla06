@@ -18,7 +18,7 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=PulkitPradhan&style=flat-square&label=Profile+Views&color=00BFFF)
+<h1 align="center">![Profile Views](https://komarev.com/ghpvc/?username=gautam-singla06&style=flat-square&label=Profile+Views&color=00BFFF)</h1>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gautam-singla06&limit=5&theme=dark&combine_all_yearly_contributions=true)
