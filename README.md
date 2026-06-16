@@ -23,10 +23,12 @@ Hi, I’m Gautam Singla, a B.Tech student in Electronics and Communication Engin
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gautam-singla06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gautam-singla06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-singla06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheVoidJulius&bg_color=0D0D1A&color=9B5DE5&line=00BBF9&point=F15BB5&area=true&hide_border=false&border_color=9B5DE5" width="100%"/>
+
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gautam-singla06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
