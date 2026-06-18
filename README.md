@@ -121,7 +121,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/gautamsingla06/">
-  <img src="https://skillicons.dev/icons?i=x&theme=dark" height="38"/>
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="38"/>
 </a>
 
 <br/><br/>
