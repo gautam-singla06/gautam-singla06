@@ -119,6 +119,10 @@
 <a href="https://www.instagram.com/gautam_singla06/">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="38"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://x.com/gautamsingla06/">
+  <img src="https://skillicons.dev/icons?i=x&theme=dark" height="38"/>
+</a>
 
 <br/><br/>
 <sub>Open to internships · collaborations · and building cool things together</sub>
