@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![Gautam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautam-singla06&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/gautam-singla06)
+[![Gautam's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautam-singla06&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/gautam-singla06)
 
 </div>
 
