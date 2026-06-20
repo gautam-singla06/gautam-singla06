@@ -91,7 +91,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Says~
 
 <div align="center">
 
